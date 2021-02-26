@@ -6,6 +6,7 @@
   padding-bottom: 1rem;
   border-bottom: 1px solid #D7D8DA;
   font-weight: 500;
+  color: var(--text);
 }
 
 .completedChallenges span:first-child {
